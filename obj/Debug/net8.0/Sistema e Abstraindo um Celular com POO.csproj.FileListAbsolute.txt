@@ -1,0 +1,14 @@
+D:\Users\Rafae\Documents\CODE\.NET\Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\Sistema e Abstraindo um Celular com POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Rafae\Documents\CODE\.NET\Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\Sistema e Abstraindo um Celular com POO.AssemblyInfoInputs.cache
+D:\Users\Rafae\Documents\CODE\.NET\Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\Sistema e Abstraindo um Celular com POO.AssemblyInfo.cs
+D:\Users\Rafae\Documents\CODE\.NET\Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\Sistema e Abstraindo um Celular com POO.csproj.CoreCompileInputs.cache
+D:\Users\Rafae\Documents\CODE\.NET\Sistema e Abstraindo um Celular com POO\bin\Debug\net8.0\Sistema e Abstraindo um Celular com POO.exe
+D:\Users\Rafae\Documents\CODE\.NET\Sistema e Abstraindo um Celular com POO\bin\Debug\net8.0\Sistema e Abstraindo um Celular com POO.deps.json
+D:\Users\Rafae\Documents\CODE\.NET\Sistema e Abstraindo um Celular com POO\bin\Debug\net8.0\Sistema e Abstraindo um Celular com POO.runtimeconfig.json
+D:\Users\Rafae\Documents\CODE\.NET\Sistema e Abstraindo um Celular com POO\bin\Debug\net8.0\Sistema e Abstraindo um Celular com POO.dll
+D:\Users\Rafae\Documents\CODE\.NET\Sistema e Abstraindo um Celular com POO\bin\Debug\net8.0\Sistema e Abstraindo um Celular com POO.pdb
+D:\Users\Rafae\Documents\CODE\.NET\Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\Sistema e Abstraindo um Celular com POO.dll
+D:\Users\Rafae\Documents\CODE\.NET\Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\refint\Sistema e Abstraindo um Celular com POO.dll
+D:\Users\Rafae\Documents\CODE\.NET\Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\Sistema e Abstraindo um Celular com POO.pdb
+D:\Users\Rafae\Documents\CODE\.NET\Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\Sistema e Abstraindo um Celular com POO.genruntimeconfig.cache
+D:\Users\Rafae\Documents\CODE\.NET\Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\ref\Sistema e Abstraindo um Celular com POO.dll
